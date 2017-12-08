@@ -13,7 +13,7 @@ var text = ["Sors de là!!",
 "Ferme le Pc et profite de la vie!"];
 
 if (clique%20 == 0) {
-alert (text [Math.floor(Math.random() *5)]);
+alert (text [Math.floor(Math.random() *6)]);
 }
 });
 });
